@@ -29,7 +29,6 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-  <!-- <link rel="stylesheet" href="./assets/css/style.css"> -->
 
   <!-- =======================================================
   * Template Name: Arsha - v4.3.0
@@ -45,8 +44,10 @@
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center">
 
-      <a href="index.php" class="logo me-auto"><img src="./assets/img/logo/logo.png" alt="" class="img-fluid"></a>
-      <a class="logo me-auto" href="index.php" style="color:#fff ;">แผนกเทคโนโลยีคอมพิวเตอร์</a>
+      <a href="index.php" class="logo_header"><img src="./assets/img/logo/logo.png" alt="" class="img-fluid"></a>
+      <a class="logo me-auto" href="index.php" style="color:#fff;  font-size: 26px;">แผนกเทคโนโลยีคอมพิวเตอร์
+        <p style="color:#fff;  font-size: 14px; margin: 0;">Computer Technology</p>
+      </a>
       <!-- <h1 class="logo me-auto"><a href="index.php">แผนกเทคโนโลยีคอมพิวเตอร์</a></h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
 

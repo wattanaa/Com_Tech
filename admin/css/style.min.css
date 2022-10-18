@@ -809,11 +809,11 @@ body {
     background-position: center center
 }
 
-.logo {
+/* .logo {
     background-image: url(../img/svg/Logo.svg);
     width: 100px;
     height: 100px;
-}
+} */
 
 .menu-toggle {
     background-image: url(../img/svg/Bulk/Menu-toggle-white.svg);
@@ -1826,7 +1826,7 @@ label {
 }
 
 .logo {
-    margin-right: 9px
+    margin-right: 0px
 }
 
 .logo-text,
