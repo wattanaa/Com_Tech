@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Arsha Bootstrap Template - Index</title>
+  <title>Computer Technology</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -15,8 +15,9 @@
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,200&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,200&display=swap" rel="stylesheet">
+
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -28,6 +29,7 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+  <!-- <link rel="stylesheet" href="./assets/css/style.css"> -->
 
   <!-- =======================================================
   * Template Name: Arsha - v4.3.0
@@ -43,9 +45,10 @@
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">Arsha</a></h1>
+      <a href="index.php" class="logo me-auto"><img src="./assets/img/logo/logo.png" alt="" class="img-fluid"></a>
+      <a class="logo me-auto" href="index.php" style="color:#fff ;">แผนกเทคโนโลยีคอมพิวเตอร์</a>
+      <!-- <h1 class="logo me-auto"><a href="index.php">แผนกเทคโนโลยีคอมพิวเตอร์</a></h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -72,7 +75,7 @@
             </ul>
           </li>
           <li><a class="nav-link " href="#contact">Contact</a></li>
-          <li><a class="nav-link " target="_blank" href="signin.html">เข้าสู่ระบบ</a></li>
+          <li><a class="nav-link " target="_blank" href="signin.php">เข้าสู่ระบบ</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -816,8 +819,8 @@
         Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
       </div>
 
-    
-    
+
+
     </div>
   </footer><!-- End Footer -->
 

@@ -16,6 +16,7 @@
   <div class="layer"></div>
 <main class="page-center">
   <article class="sign-up">
+    <img class="logo" src="./assets/img/logo/logo.png" alt="#">
     <h1 class="sign-up__title">เข้าสู่ระบบ</h1>
     <!-- <p class="sign-up__subtitle">Sign in to your account to continue</p> -->
     <form class="sign-up-form form" action="" method="">

@@ -811,8 +811,8 @@ body {
 
 .logo {
     background-image: url(../img/svg/Logo.svg);
-    width: 49px;
-    height: 49px
+    width: 100px;
+    height: 100px;
 }
 
 .menu-toggle {
