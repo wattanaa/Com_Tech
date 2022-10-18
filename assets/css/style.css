@@ -13,7 +13,7 @@ body {
   color: #444444;
 }
 
-a {
+a { 
   color: #47b2e4;
   text-decoration: none;
 }
@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Jost", sans-serif;
+   font-family: 'Prompt', sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -91,7 +91,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #47b2e4;
+  background: #80151b;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -105,8 +105,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #6bc1e9;
-  color: #fff;
+  background: #5c1013
 }
 
 .back-to-top.active {
@@ -248,7 +247,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #47b2e4;
+  color: #80151b;
 }
 
 .navbar .dropdown:hover>ul {
@@ -417,7 +416,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Jost", sans-serif;
+   font-family: 'Prompt', sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -923,7 +922,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Jost", sans-serif;
+   font-family: 'Prompt', sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -1237,7 +1236,7 @@ section {
   font-size: 48px;
   color: #37517e;
   font-weight: 400;
-  font-family: "Jost", sans-serif;
+   font-family: 'Prompt', sans-serif;
   margin-bottom: 25px;
 }
 
@@ -1292,7 +1291,7 @@ section {
   transition: none;
   font-size: 16px;
   font-weight: 500;
-  font-family: "Jost", sans-serif;
+   font-family: 'Prompt', sans-serif;
   transition: 0.3s;
   border: 1px solid #47b2e4;
 }
@@ -1746,7 +1745,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Jost", sans-serif;
+   font-family: 'Prompt', sans-serif;
   color: #5e5e5e;
 }
 
