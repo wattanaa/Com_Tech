@@ -64,7 +64,6 @@
               <li><a href="#">หลักสูตรที่เปิดเรียน</a></li>
               <li><a href="#">ตารางเรียน</a></li>
               <li><a href="#">ผลการเรียน</a></li>
-              <!-- <li><a href="#">ดาวน์โหลดแบบฟอร์ม</a></li> -->
               <li class="dropdown"><a href="#"><span>ดาวน์โหลดแบบฟอร์ม</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="../Tec_com/assets/documents/Test1.pdf" download="Test1.pdf" target="_blank">คำร้องขอลงทะเบียนล่าช้า</a></li>
@@ -92,7 +91,7 @@
           <h1>ยินดีต้อนรับเข้าสู่<br>แผนกเทคโนโลยีคอมพิวเตอร์</h1>
           <h2>Welcome To Computer Technology</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="https://www.facebook.com/bcom101" target="_blank" class="btn-get-started scrollto">ติดตามข่าวสาร</a>
+            <a href="https://www.facebook.com/bcom101" target="_blank" class="btn-get-started scrollto">Facebook Fanpage</a>
             <a href="https://youtu.be/3lwqoDsh5aY" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>รับชมวีดิทัศน์</span></a>
           </div>
         </div>
@@ -113,27 +112,27 @@
         <div class="row" data-aos="zoom-in">
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients1/client-1.png" class="img-fluid" alt="">
+            <a href="http://retc.appedr.com/edr/login.do" target="_blank"><img src="assets/img/logo/logo-circle-blue.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients1/client-2.png" class="img-fluid" alt="">
+            <a href="https://std2018.vec.go.th/web/" target="_blank"><img src="assets/img/logo/index_logo.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients1/client-3.png" class="img-fluid" alt="">
+            <a href="#" target="_blank"><img src="assets/img/logo/logo.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients1/client-4.png" class="img-fluid" alt="">
+            <a href="#" target="_blank"><img src="assets/img/logo/logo.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients1/client-5.png" class="img-fluid" alt="">
+            <a href="#" target="_blank"><img src="assets/img/logo/logo.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients1/client-6.png" class="img-fluid" alt="">
+            <a href="#" target="_blank"><img src="assets/img/logo/logo.png" class="img-fluid" alt=""></a>
           </div>
 
         </div>
