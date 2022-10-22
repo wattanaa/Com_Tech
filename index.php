@@ -39,10 +39,10 @@
     <div class="container d-flex align-items-center">
 
       <a href="index.php" class="logo_header"><img src="./assets/img/logo/logo.png" alt="" class="img-fluid"></a>
-      <a class="logo me-auto" href="index.php" style="color:#fff;  font-size: 26px;">แผนกวิชาเทคโนโลยีคอมพิวเตอร์
+      <a class="logo me-auto" href="index.php" style="color:#fff; font-size: 26px;">แผนกวิชาเทคโนโลยีคอมพิวเตอร์
         <p style="color:#fff;  font-size: 14px; margin: 0;">Computer Technology</p>
       </a>
-      <!-- <h1 class="logo me-auto"><a href="index.php">แผนกเทคโนโลยีคอมพิวเตอร์</a></h1> -->
+      <!-- <h1 class="logo me-auto"><a href="index.php">แผนกวิชาเทคโนโลยีคอมพิวเตอร์</a></h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
 
       <nav id="navbar" class="navbar">
@@ -54,10 +54,10 @@
           <li><a class="nav-link scrollto" href="#about">วิสัยทัศน์</a></li>
           <li class="dropdown"><a href="#"><span>เกี่ยวกับเรา</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">ความเป็นมาของแผนก</a></li>
-              <li><a href="#">หลักสูตรที่เปิดเรียน</a></li>
-              <li><a href="#">ตารางเรียน</a></li>
-              <li><a href="#">ผลการเรียน</a></li>
+              <li><a href="#faq">ความเป็นมาของแผนก</a></li>
+              <li><a href="#why-us">หลักสูตรที่เปิดเรียน</a></li>
+              <!-- <li><a href="#">ตารางเรียน</a></li>
+              <li><a href="#">ผลการเรียน</a></li> -->
               <li class="dropdown"><a href="#"><span>ดาวน์โหลดแบบฟอร์ม</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="../Tec_com/assets/documents/Test1.pdf" download="Test1.pdf" target="_blank">คำร้องขอลงทะเบียนล่าช้า</a></li>
@@ -82,7 +82,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-          <h1>ยินดีต้อนรับเข้าสู่<br>แผนกเทคโนโลยีคอมพิวเตอร์</h1>
+          <h1>ยินดีต้อนรับเข้าสู่<br>แผนกวิชาเทคโนโลยีคอมพิวเตอร์</h1>
           <h2>Welcome To Computer Technology</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="https://www.facebook.com/bcom101" target="_blank" class="btn-get-started scrollto">Facebook Fanpage</a>
@@ -144,25 +144,28 @@
 
         <div class="row content">
           <div class="col-lg-6">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
+            <p>วิสัยทัศน์ (Vision)</p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+              <li><i class="ri-check-double-line"></i> แผนกวิชาเทคโนโลยีคอมพิวเตอร์ เป็นส่วนหนึ่งของวิทยาลัยเทคนิคร้อยเอ็ด
+                ที่มีความมุ่งมั่นที่จะพัฒนาทางด้านวิชาชีพ โดยมุ่งเน้นที่จะผลิตนักเรียน นักศึกษาให้มีคุณภาพ มีมาตรฐานทางด้านวิชาชีพเป็นเลิศ
+                ทางด้านวิชาการควบคู่คุณธรรม สอดคล้องกับความต้องการของชุมชน และสถานประกอบการ</li>
             </ul>
           </div>
+
           <div class="col-lg-6 pt-4 pt-lg-0">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
+            <p>พันธกิจ (Mission)</p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+              <li><i class="ri-check-double-line"></i> จัดการเรียนการสอนในรายวิชาตามความถนัดและความสนใจของผู้เรียน
+                โดยเน้นผู้เรียนเป็นสำคัญ เพื่อให้เกิดประโยชน์สูงสุดแก่ผู้เรียน</li>
+            </ul>
+          </div>
+
+          <div class="col-lg-6">
+            <p>เป้าหมาย (Objective)</p>
+            <ul>
+              <li><i class="ri-check-double-line"></i> ผู้เรียนมีทักษะความสามารถด้าน คอมพิวเตอร์ และซอฟต์แวร์ต่างๆได้เป็นอย่างดี</li>
+              <li><i class="ri-check-double-line"></i> ผู้เรียนมีการพัฒนาตนเองอย่างต่อ เนื่องและก้าวทันความก้าวหน้าด้านหลักสูตร การศึกษาโดยยืดหลัก คุณธรรมนำความรู้</li>
+              <li><i class="ri-check-double-line"></i> ผู้สอนและผู้เรียนมีการพัฒนา ความรู้แก่ตนเองอย่างสม่ำเสมอ</li>
             </ul>
             <!-- <a href="#" class="btn-learn-more">ดูเพิ่มเติม</a> -->
           </div>
@@ -180,37 +183,57 @@
           <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
             <div class="content">
-              <h3>Eum ipsam laborum deleniti <strong>velit pariatur architecto aut nihil</strong></h3>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+              <h3><strong>หลักสูตรที่เปิดเรียน</strong></h3>
+              <p>ระดับประกาศนียบัตรวิชาชีพ ปวช. <br>
+                - สาขางานช่างเทคนิคคอมพิวเตอร์ <br><br>
+                ระดับประกาศนียบัตรวิชาชีพชั้นสูง ปวส. <br>
+                - สาขางานคอมพิวเตอร์ซอฟต์แวร์
               </p>
             </div>
 
             <div class="accordion-list">
               <ul>
                 <li>
-                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span> ซอฟต์แวร์ (Software) </span><i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
-                    <p>
-                      Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                    <p> - การวิเคราะห์และออกแบบระบบ <br>
+                      - การเขียนโปรแกรมด้วยภาษาคอมพิวเตอร์ (HTML, JAVA, C+, และ PHP) <br>
+                      - การเขียนแบบด้วยคอมพิวเตอร์ <br>
+                      - พื้นฐานปัญญาประดิษฐ์ (AI)
                     </p>
                   </div>
                 </li>
 
                 <li>
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span> ฮาร์ดแวร์ (Hardware) </span><i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
-                    <p>
-                      Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                    <p> - การพัฒนางานระบบสมองกลฝังตัวและ IOT <br>
+                      - ระบบควบคุมไฟฟ้าและอิเล็กทรอนิกส์ด้วยระบบคอมพิวเตอร์ฮาร์ดแวร์ <br>
+                      - การสร้างและพัฒนาหุ่นยนต์ <br>
+                      - ซ่อมบำรุงเครื่องคอมพิวเตอร์และอุปกรณ์ต่างๆ
                     </p>
                   </div>
                 </li>
 
                 <li>
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span> ระบบเครือข่าย (Network) </span><i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
-                    <p>
-                      Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                    <p> - วางแผนและแก้ปัญหาในการปฏิบัติงานคอมพิวเตอร์ <br>
+                      - ระบบเครือข่ายและสามารถออกแบบและติดตั้งการเชื่อมต่อ <br>
+                      - ระบบอินเตอร์เน็ตในรูปแบบต่างๆ <br>
+                      - ออกแบบระแบบเครือข่ายไร้สาย <br>
+                      - ติดตั้งการเชื่อมต่อระบบอินเตอร์เน็ต
+                    </p>
+                  </div>
+                </li>
+
+                <li>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-4" class="collapsed"><span> การฟิกและมัลติมีเดีย (Graphic and Multimedia) </span><i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-4" class="collapse" data-bs-parent=".accordion-list">
+                    <p> - ออกแบบงานมัลติมีเดีย <br>
+                      - สร้างกราฟิกและภาพเคลื่อนไหว <br>
+                      - การสร้างเกมและแอนิเมชั่น <br>
+                      - การผลิตดิจิทัลวิดีโอ
                     </p>
                   </div>
                 </li>
@@ -224,7 +247,8 @@
         </div>
 
       </div>
-    </section><!-- End Why Us Section -->
+    </section>
+    <!-- End Why Us Section -->
 
     <!-- ======= Skills Section ======= -->
     <!-- <section id="skills" class="skills">
@@ -286,7 +310,7 @@
 
         <div class="section-title">
           <h2>ข่าวประชาสัมพันธ์</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit.</p>
         </div>
 
         <div class="row">
@@ -464,23 +488,23 @@
 
         <div class="section-title">
           <h2>บุคลากร</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>อันนี้ยังไม่รู้จะใส่อะไร555 ค่อยหามาใส่</p>
         </div>
 
         <div class="row">
 
           <div class="col-lg-6">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-              <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/team/team-1.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                <h4>นายอิสระ วรนาม</h4>
+                <span>หัวหน้าแผนกวิชาเทคโนโลยีคอมพิวเตอร์</span>
+                <p>ครู อันดับ คศ.2 <br>
+                  ครูที่ปรึกษาระดับชั้น ปวส.1 กลุ่ม 9-10</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href="https://www.facebook.com/krua.isara" target="_blank"><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-line-fill"></i></a>
                   <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
                 </div>
               </div>
             </div>
@@ -488,16 +512,17 @@
 
           <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
-              <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/team/team-2.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                <h4>นายอนุภัทร ศรีทอง</h4>
+                <span>ผู้ช่วยหัวหน้า/วิชาการแผนกวิชา</span>
+                <p>
+                  ครู อันดับ คศ.2 <br>
+                  ครูที่ปรึกษาระดับชั้น ปวส.1 กลุ่ม 5-6</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-line-fill"></i></a>
                   <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
                 </div>
               </div>
             </div>
@@ -505,16 +530,17 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
-              <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/team/team-3.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
+                <h4>นางสาวจุฑารัตน์ ผายพิมพ์</h4>
+                <span>ประจำแผนกวิชา</span>
+                <p>
+                  ครู อันดับ คศ.3 <br>
+                  ครูที่ปรึกษาระดับชั้น ปวส.2 กลุ่ม 3-4</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-line-fill"></i></a>
                   <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
                 </div>
               </div>
             </div>
@@ -522,16 +548,17 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
-              <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/team/team-4.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                <h4>นายศราวุธ ขระณีย์</h4>
+                <span>พัสดุแผนกวิชา</span>
+                <p>
+                  ครู อันดับ คศ.2 <br>
+                  ครูที่ปรึกษาระดับชั้น ปวส.1 กลุ่ม 7-8</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-line-fill"></i></a>
                   <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
                 </div>
               </div>
             </div>
@@ -609,8 +636,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Frequently Asked Questions</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>ความเป็นมาของแผนก</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem.</p>
         </div>
 
         <div class="faq-list">
@@ -672,7 +699,9 @@
 
         <div class="section-title">
           <h2>ติดต่อ</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>
+            Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel.
+          </p>
         </div>
 
         <div class="row">
@@ -688,7 +717,7 @@
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>อีเมล:</h4>
-                <p>Computer_Technology@gmail.com</p>
+                <p>Computer_Technology101@gmail.com</p>
               </div>
 
               <div class="phone">
@@ -745,10 +774,11 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6">
-            <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <h4>สมัครรับข้อมูลข่าวสาร</h4>
+            <p>กรอกอีเมลลงในช่องด้านล่างเพื่อสมัครรับข้อมูลข่าวสาร
+            </p>
             <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
+              <input type="email" name="email"><input type="submit" value="ยืนยัน">
             </form>
           </div>
         </div>
@@ -760,29 +790,29 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Arsha</h3>
+            <h3>ข้อมูลติดต่อ</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              210 ตำบลในเมือง อำเภอเมืองร้อยเอ็ด<br>
+              จังหวัดร้อยเอ็ด 45000 <br><br>
+              <strong>ติดต่อสอบถามเพิ่มเติม:</strong> 0-4351-1290<br>
+              <strong>อีเมล:</strong> Computer_Technology101@gmail.com<br>
             </p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>แผนกวิชาเทคโนโลยีคอมพิวเตอร์<br>
+              Comouter Technology</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">หน้าแรก</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">บุคลากร</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">ข่าวประชาสัมพันธ์</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">วิสัยทัศน์</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">ติดต่อ</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>บริการต่างๆ</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
@@ -793,14 +823,15 @@
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Social Networks</h4>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
+            <h4>ช่องทางออนไลน์</h4>
+            <p>ติดตามข่าวสารผ่านช่องทางออนไลน์
+            </p>
             <div class="social-links mt-3">
-              <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              <a href="https://www.facebook.com/bcom101" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="#" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="#" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
+              <!-- <a href="#" target="_blank" class="google-plus"><i class="bx bxl-skype"></i></a>
+              <a href="#" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a> -->
             </div>
           </div>
 
@@ -809,19 +840,14 @@
     </div>
 
     <div class="container footer-bottom clearfix">
+      <!-- <div class="container footer-bottom clearfix d-flex justify-content-center"> -->
       <div class="copyright">
-        &copy; Copyright <strong><span>Arsha</span></strong>. All Rights Reserved
+        Copyright &copy; 2021. <strong><span></span></strong> All rights reserved.
       </div>
+
       <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        แผนกวิชาเทคโนโลยีคอมพิวเตอร์<a href="./index.php"> วิทยาลัยเทคนิคร้อยเอ็ด</a>
       </div>
-
-
-
     </div>
   </footer><!-- End Footer -->
 
