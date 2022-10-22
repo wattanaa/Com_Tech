@@ -67,9 +67,9 @@
               <!-- <li><a href="#">ดาวน์โหลดแบบฟอร์ม</a></li> -->
               <li class="dropdown"><a href="#"><span>ดาวน์โหลดแบบฟอร์ม</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">คำร้องขอลงทะเบียนล่าช้า</a></li>
-                  <li><a href="#">คำร้องขอแก้กิจกรรม</a></li>
-                  <li><a href="#">คำร้องขอแก้ผลการเรียน</a></li>
+                  <li><a href="../Tec_com/assets/documents/Test1.pdf" download="Test1.pdf" target="_blank">คำร้องขอลงทะเบียนล่าช้า</a></li>
+                  <li><a href="../Tec_com/assets/documents/Test1.pdf" download="Test1.pdf" target="_blank">คำร้องขอแก้กิจกรรม</a></li>
+                  <li><a href="../Tec_com/assets/documents/Test1.pdf" download="Test1.pdf" target="_blank">คำร้องขอแก้ผลการเรียน</a></li>
                 </ul>
               </li>
             </ul>
@@ -92,8 +92,8 @@
           <h1>ยินดีต้อนรับเข้าสู่<br>แผนกเทคโนโลยีคอมพิวเตอร์</h1>
           <h2>Welcome To Computer Technology</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="#about" class="btn-get-started scrollto">Get Started</a>
-            <a href="https://youtu.be/3lwqoDsh5aY" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+            <a href="https://www.facebook.com/bcom101" target="_blank" class="btn-get-started scrollto">ติดตามข่าวสาร</a>
+            <a href="https://youtu.be/3lwqoDsh5aY" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>รับชมวีดิทัศน์</span></a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
@@ -333,7 +333,6 @@
     <!-- ======= Cta Section ======= -->
     <section id="cta" class="cta">
       <div class="container" data-aos="zoom-in">
-
         <div class="row">
           <div class="col-lg-9 text-center text-lg-start">
             <h3>Call To Action</h3>
