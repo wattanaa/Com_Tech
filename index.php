@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Computer Technology</title>
+  <title>แผนกวิชาเทคโนโลยีคอมพิวเตอร์ - Computer Technology</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -29,14 +29,8 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Arsha - v4.3.0
-  * Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
+
 
 <body>
 
@@ -45,7 +39,7 @@
     <div class="container d-flex align-items-center">
 
       <a href="index.php" class="logo_header"><img src="./assets/img/logo/logo.png" alt="" class="img-fluid"></a>
-      <a class="logo me-auto" href="index.php" style="color:#fff;  font-size: 26px;">แผนกเทคโนโลยีคอมพิวเตอร์
+      <a class="logo me-auto" href="index.php" style="color:#fff;  font-size: 26px;">แผนกวิชาเทคโนโลยีคอมพิวเตอร์
         <p style="color:#fff;  font-size: 14px; margin: 0;">Computer Technology</p>
       </a>
       <!-- <h1 class="logo me-auto"><a href="index.php">แผนกเทคโนโลยีคอมพิวเตอร์</a></h1> -->
@@ -120,19 +114,19 @@
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <a href="#" target="_blank"><img src="assets/img/logo/logo.png" class="img-fluid" alt=""></a>
+            <a href="https://www.studentloan.or.th/" target="_blank"><img src="assets/img/logo/logo1.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <a href="#" target="_blank"><img src="assets/img/logo/logo.png" class="img-fluid" alt=""></a>
+            <a href="https://www.retc.ac.th/" target="_blank"><img src="assets/img/logo/retc_1.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <a href="#" target="_blank"><img src="assets/img/logo/logo.png" class="img-fluid" alt=""></a>
+            <a href="https://www.facebook.com/roiet.retc.101" target="_blank"><img src="assets/img/logo/fb.png" class="img-fluid" alt=""></a>
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <a href="#" target="_blank"><img src="assets/img/logo/logo.png" class="img-fluid" alt=""></a>
+            <a href="https://www.facebook.com/profile.php?id=100069103688242" target="_blank"><img src="assets/img/logo/guidnce.png" class="img-fluid" alt=""></a>
           </div>
 
         </div>
@@ -145,7 +139,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>About Us</h2>
+          <h2>วิสัยทัศน์</h2>
         </div>
 
         <div class="row content">
@@ -162,11 +156,15 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
             </p>
-            <a href="#" class="btn-learn-more">Learn More</a>
+            <ul>
+              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
+              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+            </ul>
+            <!-- <a href="#" class="btn-learn-more">ดูเพิ่มเติม</a> -->
           </div>
         </div>
 
@@ -287,7 +285,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
+          <h2>ข่าวประชาสัมพันธ์</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
@@ -465,7 +463,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Team</h2>
+          <h2>บุคลากร</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
@@ -673,7 +671,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contact</h2>
+          <h2>ติดต่อ</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
@@ -683,23 +681,23 @@
             <div class="info">
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
-                <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <h4>ที่อยู่:</h4>
+                <p>210 ตำบลในเมือง อำเภอเมืองร้อยเอ็ด จังหวัดร้อยเอ็ด 45000</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
-                <h4>Email:</h4>
-                <p>info@example.com</p>
+                <h4>อีเมล:</h4>
+                <p>Computer_Technology@gmail.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
-                <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <h4>ติดต่อสอบถามเพิ่มเติม:</h4>
+                <p>0-4351-1290</p>
               </div>
 
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d958.5612393540795!2d103.65621137230467!3d16.052773460361045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3117fdcbc956ba0d%3A0x415e931848db9c6!2z4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4LmA4LiX4LiE4LiZ4Li04LiE4Lij4LmJ4Lit4Lii4LmA4Lit4LmH4LiU!5e0!3m2!1sth!2sth!4v1666442361277!5m2!1sth!2sth" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
             </div>
 
           </div>
@@ -708,20 +706,20 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group col-md-6">
-                  <label for="name">Your Name</label>
+                  <label for="name">ชื่อ - นามสกุล</label>
                   <input type="text" name="name" class="form-control" id="name" required>
                 </div>
                 <div class="form-group col-md-6">
-                  <label for="name">Your Email</label>
+                  <label for="name">อีเมล</label>
                   <input type="email" class="form-control" name="email" id="email" required>
                 </div>
               </div>
               <div class="form-group">
-                <label for="name">Subject</label>
+                <label for="name">เรื่อง</label>
                 <input type="text" class="form-control" name="subject" id="subject" required>
               </div>
               <div class="form-group">
-                <label for="name">Message</label>
+                <label for="name">ข้อความ</label>
                 <textarea class="form-control" name="message" rows="10" required></textarea>
               </div>
               <div class="my-3">
@@ -729,7 +727,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">ส่งข้อความ</button></div>
             </form>
           </div>
 
