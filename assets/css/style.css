@@ -526,7 +526,7 @@ h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 86px 0;
   overflow: hidden;
 }
 
@@ -699,7 +699,7 @@ section {
 }
 
 .why-us .accordion-list {
-  padding: 0 100px 60px 100px;
+  padding: 0 100px 10px 100px;
 }
 
 .why-us .accordion-list ul {

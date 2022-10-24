@@ -310,10 +310,23 @@
 
         <div class="section-title">
           <h2>ข่าวประชาสัมพันธ์</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit.</p>
+          <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit.</p>
         </div>
 
         <div class="row">
+          <div class="col-xl-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <iframe src="https://www.hongpakkroo.com/code-job4.php" style="width:100%;height:670px;border-style:none"></iframe>
+          </div>
+
+          <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <iframe src="https://www.hongpakkroo.com/code-job1.php" style="width:100%;height:670px;border-style:none"></iframe>
+          </div>
+
+          <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <iframe src="https://www.hongpakkroo.com/code-job1.php" style="width:100%;height:670px;border-style:none"></iframe>
+          </div>
+
+          <!-- <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
@@ -345,9 +358,9 @@
               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
             </div>
           </div>
-        </div>
+        </div> -->
 
-      </div>
+        </div>
     </section>
     <!-- End Services Section -->
 
@@ -564,6 +577,42 @@
             </div>
           </div>
 
+          <div class="col-lg-6 mt-4">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
+              <div class="pic"><img src="assets/img/team/team-4.png" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>นายศราวุธ ขระณีย์</h4>
+                <span>พัสดุแผนกวิชา</span>
+                <p>
+                  ครู อันดับ คศ.2 <br>
+                  ครูที่ปรึกษาระดับชั้น ปวส.1 กลุ่ม 7-8</p>
+                <div class="social">
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-line-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 mt-4">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
+              <div class="pic"><img src="assets/img/team/team-4.png" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>นายศราวุธ ขระณีย์</h4>
+                <span>พัสดุแผนกวิชา</span>
+                <p>
+                  ครู อันดับ คศ.2 <br>
+                  ครูที่ปรึกษาระดับชั้น ปวส.1 กลุ่ม 7-8</p>
+                <div class="social">
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-line-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
 
       </div>
@@ -725,14 +774,16 @@
                 <h4>ติดต่อสอบถามเพิ่มเติม:</h4>
                 <p>0-4351-1290</p>
               </div>
-
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d958.5612393540795!2d103.65621137230467!3d16.052773460361045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3117fdcbc956ba0d%3A0x415e931848db9c6!2z4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4LmA4LiX4LiE4LiZ4Li04LiE4Lij4LmJ4Lit4Lii4LmA4Lit4LmH4LiU!5e0!3m2!1sth!2sth!4v1666442361277!5m2!1sth!2sth" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
             </div>
-
           </div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d958.5612393540795!2d103.65621137230467!3d16.052773460361045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3117fdcbc956ba0d%3A0x415e931848db9c6!2z4Lin4Li04LiX4Lii4Liy4Lil4Lix4Lii4LmA4LiX4LiE4LiZ4Li04LiE4Lij4LmJ4Lit4Lii4LmA4Lit4LmH4LiU!5e0!3m2!1sth!2sth!4v1666442361277!5m2!1sth!2sth" frameborder="0" style="border:0; width: 100%; height: 500px;" allowfullscreen></iframe>
+            </form>
+
+            <!-- <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group col-md-6">
                   <label for="name">ชื่อ - นามสกุล</label>
@@ -757,7 +808,7 @@
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
               <div class="text-center"><button type="submit">ส่งข้อความ</button></div>
-            </form>
+            </form> -->
           </div>
 
         </div>
@@ -770,7 +821,7 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
 
-    <div class="footer-newsletter">
+    <!-- <div class="footer-newsletter">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6">
@@ -783,7 +834,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="footer-top">
       <div class="container">
@@ -800,25 +851,31 @@
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>แผนกวิชาเทคโนโลยีคอมพิวเตอร์<br>
-              Comouter Technology</h4>
+            <h4>อาชีวศึกษาจังหวัดร้อยเอ็ด</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">หน้าแรก</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">บุคลากร</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">ข่าวประชาสัมพันธ์</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">วิสัยทัศน์</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">ติดต่อ</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.retc.ac.th/" target="_blank">วิทยาลัยเทคนิคร้อยเอ็ด</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="http://www.rvc.ac.th/" target="_blank">วิทยาลัยอาชีวศึกษาร้อยเอ็ด</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="http://www.roiet-icec.ac.th/" target="_blank">วิทยาลัยการอาชีพร้อยเอ็ด</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="http://rcat.ac.th/" target="_blank">วิทยาลัยเกษตรและเทคโนโลยีร้อยเอ็ด</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.pticec.ac.th/" target="_blank">วิทยาลัยการอาชีพโพนทอง</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="http://www.kaset.ac.th/" target="_blank">วิทยาลัยเทคนิคเกษตรวิสัย</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="http://www.swtc.ac.th/" target="_blank">วิทยาลัยเทคนิคสุวรรณภูมิ</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="http://www.piacec.ac.th/" target="_blank">วิทยาลัยการอาชีพพนมไพร</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>บริการต่างๆ</h4>
+            <h4>หน่วยงานในสังกัด สอศ.</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://boga.vec.go.th/" target="_blank">สำนักอำนวยการ</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://boc2.vec.go.th/" target="_blank">สำนักความร่วมมือ</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://bme.vec.go.th/" target="_blank">สำนักติดตามและประเมินผลการอาชีวศึกษา</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://bpp.vec.go.th/" target="_blank">สำนักนโยบายและแผนการอาชีวศึกษา</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://bpcd.vec.go.th/" target="_blank">สำนักพัฒนาสมรรถนะครูและบุคลากรอาชีวศึกษา</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://bsq.vec.go.th/" target="_blank">สำนักมาตรฐานการอาชีวศึกษาและวิชาชีพ</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://ver.vec.go.th/" target="_blank">สำนักวิจัยและพัฒนาการอาชีวศึกษา</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://vecp.vec.go.th/" target="_blank">สำนักคณะกรรมการการอาชีวศึกษา</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://bpa.vec.go.th/" target="_blank">สำนักบริหารงานบุคคลและนิติการ</a></li>
             </ul>
           </div>
 
@@ -842,7 +899,7 @@
     <div class="container footer-bottom clearfix">
       <!-- <div class="container footer-bottom clearfix d-flex justify-content-center"> -->
       <div class="copyright">
-        Copyright &copy; 2021. <strong><span></span></strong> All rights reserved.
+        Copyright &copy; 2022. <strong><span></span></strong> All rights reserved.
       </div>
 
       <div class="credits">
