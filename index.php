@@ -42,8 +42,6 @@
       <a class="logo me-auto" href="index.php" style="color:#fff; font-size: 26px;">แผนกวิชาเทคโนโลยีคอมพิวเตอร์
         <p style="color:#fff;  font-size: 14px; margin: 0;">Computer Technology</p>
       </a>
-      <!-- <h1 class="logo me-auto"><a href="index.php">แผนกวิชาเทคโนโลยีคอมพิวเตอร์</a></h1> -->
-      <!-- Uncomment below if you prefer to use an image logo -->
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -85,7 +83,7 @@
           <h1>ยินดีต้อนรับเข้าสู่<br>แผนกวิชาเทคโนโลยีคอมพิวเตอร์</h1>
           <h2>Welcome To Computer Technology</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="https://www.facebook.com/bcom101" target="_blank" class="btn-get-started scrollto">Facebook Fanpage</a>
+            <a href="https://www.facebook.com/bcom101" target="_blank" class="btn-get-started scrollto"><i class='bx bxl-facebook-circle'></i> Facebook Fanpage</a>
             <a href="https://youtu.be/3lwqoDsh5aY" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>รับชมวีดิทัศน์</span></a>
           </div>
         </div>
@@ -95,9 +93,11 @@
       </div>
     </div>
 
-  </section><!-- End Hero -->
+  </section>
+  <!-- End Hero -->
 
   <main id="main">
+
 
     <!-- ======= Cliens Section ======= -->
     <section id="cliens" class="cliens section-bg">
@@ -132,7 +132,70 @@
         </div>
 
       </div>
-    </section><!-- End Cliens Section -->
+    </section>
+    <!-- End Cliens Section -->
+
+    <!-- ======= Pricing Section ======= -->
+    <!-- <section id="pricing" class="pricing">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Pricing</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="box">
+              <h3>Free Plan</h3>
+              <h4><sup>$</sup>0<span>per month</span></h4>
+              <ul>
+                <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
+                <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
+                <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
+                <li class="na"><i class="bx bx-x"></i> <span>Pharetra massa massa ultricies</span></li>
+                <li class="na"><i class="bx bx-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+              </ul>
+              <a href="#" class="buy-btn">Get Started</a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
+            <div class="box featured">
+              <h3>Business Plan</h3>
+              <h4><sup>$</sup>29<span>per month</span></h4>
+              <ul>
+                <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
+                <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
+                <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
+                <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
+                <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
+              </ul>
+              <a href="#" class="buy-btn">Get Started</a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+            <div class="box">
+              <h3>Developer Plan</h3>
+              <h4><sup>$</sup>49<span>per month</span></h4>
+              <ul>
+                <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
+                <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
+                <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
+                <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
+                <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
+              </ul>
+              <a href="#" class="buy-btn">Get Started</a>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section> -->
+    <!-- End Pricing Section -->
 
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
@@ -172,7 +235,8 @@
         </div>
 
       </div>
-    </section><!-- End About Us Section -->
+    </section>
+    <!-- End About Us Section -->
 
     <!-- ======= Why Us Section ======= -->
     <section id="why-us" class="why-us section-bg">
@@ -240,12 +304,9 @@
 
               </ul>
             </div>
-
           </div>
-
           <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img" style='background-image: url("assets/img/why-us.png");' data-aos="zoom-in" data-aos-delay="150">&nbsp;</div>
         </div>
-
       </div>
     </section>
     <!-- End Why Us Section -->
@@ -324,41 +385,6 @@
           <div class="col-xl-4 col-md-4 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <iframe src="https://www.hongpakkroo.com/code-job3.php" style="width:100%;height:670px;border-style:none"></iframe>
           </div>
-
-          <!-- <div class="row">
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-layer"></i></div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div>
-        </div> -->
-
         </div>
     </section>
     <!-- End Services Section -->
@@ -578,69 +604,8 @@
         </div>
 
       </div>
-    </section><!-- End Team Section -->
-
-    <!-- ======= Pricing Section ======= -->
-    <!-- <section id="pricing" class="pricing">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Pricing</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
-            <div class="box">
-              <h3>Free Plan</h3>
-              <h4><sup>$</sup>0<span>per month</span></h4>
-              <ul>
-                <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-                <li class="na"><i class="bx bx-x"></i> <span>Pharetra massa massa ultricies</span></li>
-                <li class="na"><i class="bx bx-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-              </ul>
-              <a href="#" class="buy-btn">Get Started</a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-            <div class="box featured">
-              <h3>Business Plan</h3>
-              <h4><sup>$</sup>29<span>per month</span></h4>
-              <ul>
-                <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-                <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
-                <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
-              </ul>
-              <a href="#" class="buy-btn">Get Started</a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
-            <div class="box">
-              <h3>Developer Plan</h3>
-              <h4><sup>$</sup>49<span>per month</span></h4>
-              <ul>
-                <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-                <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
-                <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
-              </ul>
-              <a href="#" class="buy-btn">Get Started</a>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section> -->
-    <!-- End Pricing Section -->
+    </section>
+    <!-- End Team Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
@@ -698,7 +663,8 @@
         </div>
 
       </div>
-    </section><!-- End Frequently Asked Questions Section -->
+    </section>
+    <!-- End Frequently Asked Questions Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -769,9 +735,99 @@
         </div>
 
       </div>
-    </section><!-- End Contact Section -->
+    </section>
+    <!-- End Contact Section -->
 
-  </main><!-- End #main -->
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>ประธานกรรมการแผนก</h2>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-6">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
+              <div class="pic"><img src="assets/img/team1/team-1.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>นายอิสระ วรนาม</h4>
+                <span>หัวหน้าแผนกวิชาเทคโนโลยีคอมพิวเตอร์</span>
+                <p>ครู อันดับ คศ.2 <br>
+                  ครูที่ปรึกษาระดับชั้น ปวส.1 กลุ่ม 9-10</p>
+                <div class="social">
+                  <a href="#"><i class="ri-facebook-fill"></i></a>
+                  <a href="#"><i class="ri-line-fill"></i></a>
+                  <a href="#"><i class="ri-instagram-fill"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 mt-4 mt-lg-0">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
+              <div class="pic"><img src="assets/img/team1/team-2.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>นายอนุภัทร ศรีทอง</h4>
+                <span>ผู้ช่วยหัวหน้า/วิชาการแผนกวิชา</span>
+                <p>
+                  ครู อันดับ คศ.2 <br>
+                  ครูที่ปรึกษาระดับชั้น ปวส.1 กลุ่ม 5-6</p>
+                <div class="social">
+                  <a href="#"><i class="ri-facebook-fill"></i></a>
+                  <a href="#"><i class="ri-line-fill"></i></a>
+                  <a href="#"><i class="ri-instagram-fill"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 mt-4">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+              <div class="pic"><img src="assets/img/team1/team-3.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>นางสาวจุฑารัตน์ ผายพิมพ์</h4>
+                <span>ประจำแผนกวิชา</span>
+                <p>
+                  ครู อันดับ คศ.3 <br>
+                  ครูที่ปรึกษาระดับชั้น ปวส.2 กลุ่ม 3-4</p>
+                <div class="social">
+                  <a href="#"><i class="ri-facebook-fill"></i></a>
+                  <a href="#"><i class="ri-line-fill"></i></a>
+                  <a href="#"><i class="ri-instagram-fill"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 mt-4">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
+              <div class="pic"><img src="assets/img/team1/team-4.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>นายศราวุธ ขระณีย์</h4>
+                <span>พัสดุแผนกวิชา</span>
+                <p>
+                  ครู อันดับ คศ.2 <br>
+                  ครูที่ปรึกษาระดับชั้น ปวส.1 กลุ่ม 7-8</p>
+                <div class="social">
+                  <a href="#"><i class="ri-facebook-fill"></i></a>
+                  <a href="#"><i class="ri-line-fill"></i></a>
+                  <a href="#"><i class="ri-instagram-fill"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    <!-- End Team Section -->
+
+
+  </main>
+  <!-- End #main -->
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
@@ -842,8 +898,6 @@
               <a href="https://www.facebook.com/bcom101" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
               <a href="#" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
               <a href="#" target="_blank" class="youtube"><i class="bx bxl-youtube"></i></a>
-              <!-- <a href="#" target="_blank" class="google-plus"><i class="bx bxl-skype"></i></a>
-              <a href="#" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a> -->
             </div>
           </div>
 
@@ -852,7 +906,6 @@
     </div>
 
     <div class="container footer-bottom clearfix">
-      <!-- <div class="container footer-bottom clearfix d-flex justify-content-center"> -->
       <div class="copyright">
         Copyright &copy; 2022. <strong><span></span></strong> All rights reserved.
       </div>
