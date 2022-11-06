@@ -46,16 +46,15 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">หน้าแรก</a></li>
-          <!-- <li><a class="nav-link scrollto" href="#services">หลักสูตรที่เปิดเรียน</a></li> -->
           <li><a class="nav-link scrollto" href="#team">บุคลากร</a></li>
           <li><a class="nav-link scrollto" href="#services">ข่าวประชาสัมพันธ์</a></li>
           <li><a class="nav-link scrollto" href="#about">วิสัยทัศน์</a></li>
+          <li><a class="nav-link scrollto" href="#team1">ประธานกรรมการ</a></li>
           <li class="dropdown"><a href="#"><span>เกี่ยวกับเรา</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
+              <!-- <li><a href="#team1">ประธานกรรมการแผนก</a></li> -->
               <li><a href="#faq">ความเป็นมาของแผนก</a></li>
               <li><a href="#why-us">หลักสูตรที่เปิดเรียน</a></li>
-              <!-- <li><a href="#">ตารางเรียน</a></li>
-              <li><a href="#">ผลการเรียน</a></li> -->
               <li class="dropdown"><a href="#"><span>ดาวน์โหลดแบบฟอร์ม</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="../Tec_com/assets/documents/Test1.pdf" download="Test1.pdf" target="_blank">คำร้องขอลงทะเบียนล่าช้า</a></li>
@@ -620,6 +619,9 @@
             <li data-aos="fade-up" data-aos-delay="100">
               <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
+                <p>
+                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                </p>
               </div>
             </li>
 
@@ -739,7 +741,7 @@
     <!-- End Contact Section -->
 
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team section-bg">
+    <section id="team1" class="team section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
